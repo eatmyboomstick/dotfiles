@@ -1,0 +1,5 @@
+# Modkey
+set $mod Mod4
+
+# Include config files
+include config.d/*.conf
